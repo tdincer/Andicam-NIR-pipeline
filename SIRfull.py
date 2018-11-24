@@ -1,4 +1,4 @@
-import SMARTSIR_J1820_v2 as IR
+import SMARTSIR as IR
 IR.pd.set_option('display.width', 1000)
 
 
