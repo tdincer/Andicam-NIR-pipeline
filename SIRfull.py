@@ -8,7 +8,7 @@ source = ['J1820'] # 'J1820',
 expr = 'OWNER=="YALE-03A-0001"'
 pathtorefimages = '/Volumes/HighEnergy1/dailylc'
 inputdirs = ['/Volumes/HighEnergy1/archive/SMARTS13m/IR/J1820']
-output_ir = 'MAXIJ1535_ir.list'
+output_ir = 'MAXIJ1820_ir.list'
 inputdirs_flat_ir = ['/Volumes/HighEnergy1/archive/SMARTS13m/IRFLATS']
 daterange_flat_ir = ['2018-07-12', '2018-10-24']
 ref_ir     = {'J': './reference/J/clean1.fits', 
