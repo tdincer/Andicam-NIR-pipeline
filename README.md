@@ -1,3 +1,3 @@
-# Andicam NIR module
+# Andicam Optical/NIR photometry for point-like sources
 
-This module is developed to process the near-infrared data from ANDICAM on the CTIO 1.3m telescope. The functions in this module are specifically designed to process the images that contain Galactic black hole X-ray binaries.
+This module is developed to perform photometry on images collected with the ANDICAM onboard the CTIO 1.3m telescope.
