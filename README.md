@@ -9,3 +9,5 @@ SMARTSIR.py - the main near-infrared photometry module
 SOptfull.py - the wrapper for the optical photometry
 
 SIRfull.py - the wrapper for the near-infrared photometry
+
+These modules must not be used without a good knowledge of all steps, especially the near-infrared pipeline due to the background construction problem.
