@@ -10,4 +10,4 @@ SOptfull.py - the wrapper for the optical photometry
 
 SIRfull.py - the wrapper for the near-infrared photometry
 
-These modules should not be used without a good knowledge of all steps in the code, especially the near-infrared one due to the background construction problem.
+These modules should not be used without a good knowledge of all steps in the code, especially the near-infrared one due to the complexity in the background construction.
