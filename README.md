@@ -13,6 +13,7 @@ SIRfull.py - The wrapper for the near-infrared photometry
 ### Prerequisites
 
 Before using the pipeline, you need to install the following python packages: os, glob, string, linecache, subprocess, numpy, pandas, pyraf, astropy, alipy.
+To install them with pip: 
 
 ```
 pip install os, glob, string, linecache, subprocess, numpy, pandas, pyraf, astropy, alipy
