@@ -18,7 +18,7 @@ Before using the pipeline, you need to install the following python packages: os
 pip install os, glob, string, linecache, subprocess, numpy, pandas, pyraf, astropy, alipy
 ```
 
-You will also need the "daophot" stellar photometry package of Peter B. Stetson if you wanna do psf-photometry. This package is only available by the author upon request after signing an agreement.
+You will also need the "daophot" stellar photometry package of Peter B. Stetson if you wanna do psf-photometry. This package is only available by its developer upon request after signing an agreement.
 
 
 ## Getting Started
