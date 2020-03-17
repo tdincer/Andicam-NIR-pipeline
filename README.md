@@ -21,7 +21,6 @@ pip install os, glob, string, linecache, subprocess, numpy, pandas, pyraf, astro
 You will also need the "daophot" stellar photometry package of Peter B. Stetson if you wanna do psf-photometry. This package is only available by its developer upon request after signing an agreement.
 
 
-## Getting Started
 #### Steps for the optical photometry
 
 1. Gather the images into a directory.
