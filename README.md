@@ -14,4 +14,8 @@ SIRfull.py - the wrapper for the near-infrared photometry
 
 ### Prerequisites
 
-os, glob, alipy, string, linecache, subprocess, numpy, pandas, pyraf, astropy, and daophot (optional for psf-photometry).
+Before using the pipeline, you need to install the following python packages:
+
+os, glob, string, linecache, subprocess, numpy, pandas, alipy, pyraf, astropy
+
+You will also need the "daophot" stellar photometry package of Peter B. Stetson if you wanna do psf-photometry. This package is only available by the author upon request after signing an agreement.
