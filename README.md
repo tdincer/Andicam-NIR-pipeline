@@ -1,4 +1,4 @@
-# Andicam Optical & NIR photometry pipeline for point-like sources
+# Andicam Optical & Near-Infrared photometry pipeline for point-like sources
 
 This respository contains a pipeline for point source photometry on CCD images collected with the ANDICAM instrument onbard the CTIO 1.3m telescope.
 
