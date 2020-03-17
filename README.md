@@ -1,6 +1,6 @@
-# Andicam Optical/NIR photometry pipeline for point-like sources
+# Andicam Optical & NIR photometry pipeline for point-like sources
 
-A repository to aid the point source photometry on images collected with the ANDICAM onboard the CTIO 1.3m telescope. Both aperture and psf techniques are possible. 
+This respository contains a pipeline for point source photometry on images collected with the ANDICAM instrument onbard the CTIO 1.3m telescope. Both aperture and psf techniques are possible. 
 
 SMARTSOpt.py - the main optical photometry module
 
@@ -10,4 +10,8 @@ SOptfull.py - the wrapper for the optical photometry
 
 SIRfull.py - the wrapper for the near-infrared photometry
 
-These modules should not be used without a good knowledge of all steps in the code, especially the near-infrared one due to the complexity in the background construction.
+## Getting Started
+
+### Prerequisites
+
+os, glob, alipy, string, linecache, subprocess, numpy, pandas, pyraf, astropy, and daophot (optional for psf-photometry).
