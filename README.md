@@ -26,8 +26,8 @@ You will also need the "daophot" stellar photometry package of Peter B. Stetson 
 4. Collect the photometry results
 
 #### Steps for the infrared photometry
-1. Gather ther images into a directory
-2. Combine the dithered images (make a sky noise image, denoise each of the dithered images, and then align and combine them)
+1. Gather the images into a directory
+2. Process the dithered images (make a sky noise image, denoise each of the dithered images, and then align and combine them to amplify the signal)
 3. Align the combined images with respect to ta reference frame
 4. Do the photometry
-5. Collec the photometry results
+5. Collect the photometry results
