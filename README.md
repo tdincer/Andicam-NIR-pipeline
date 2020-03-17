@@ -2,13 +2,13 @@
 
 This respository contains a pipeline for point source photometry on CCD images collected with the ANDICAM instrument mounted on the CTIO 1.3m telescope.
 
-SMARTSOpt.py - the main optical photometry module
+SMARTSOpt.py - The optical photometry module
 
-SMARTSIR.py - the main near-infrared photometry module
+SMARTSIR.py - The near-infrared photometry module
 
-SOptfull.py - the wrapper for the optical photometry
+SOptfull.py - The wrapper for the optical photometry
 
-SIRfull.py - the wrapper for the near-infrared photometry
+SIRfull.py - The wrapper for the near-infrared photometry
 
 ### Prerequisites
 
