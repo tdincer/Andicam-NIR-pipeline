@@ -10,7 +10,7 @@ SOptfull.py - the wrapper for the optical photometry
 
 SIRfull.py - the wrapper for the near-infrared photometry
 
-## Prerequisites
+### Prerequisites
 
 Before using the pipeline, you need to install the following python packages: os, glob, string, linecache, subprocess, numpy, pandas, pyraf, astropy, alipy.
 
@@ -21,14 +21,14 @@ pip install os, glob, string, linecache, subprocess, numpy, pandas, pyraf, astro
 You will also need the "daophot" stellar photometry package of Peter B. Stetson if you wanna do psf-photometry. This package is only available by its developer upon request after signing an agreement.
 
 
-#### Steps for the optical photometry
+### Steps for the optical photometry
 
 1. Gather the images into a directory.
 2. Align the images with respect to a reference frame.
 3. Do the photometry
 4. Collect the photometry results
 
-#### Steps for the infrared photometry
+### Steps for the infrared photometry
 1. Gather the images into a directory
 2. Process the dithered images (make a sky noise image, denoise each of the dithered images, and then align and combine them to amplify the signal)
 3. Align the combined images with respect to ta reference frame
