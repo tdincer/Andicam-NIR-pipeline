@@ -36,5 +36,3 @@ You will also need the "daophot" stellar photometry package of Peter B. Stetson 
 3. Align the combined images with respect to ta reference frame
 4. Do the photometry
 5. Collect the photometry results
-
-The usage of the pipeline for optical and infrared photometry can be found in the examples folder.
